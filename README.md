@@ -7,6 +7,6 @@ For this project I used:\
 * __Swiper JS__ 
 \
 \
-This site is noе responsive yet. \
+This site is not responsive yet. \
 [Link on this website](https://k-a-webdev.github.io/Nike/)
 ![Preview photo](img/Preview.png)
