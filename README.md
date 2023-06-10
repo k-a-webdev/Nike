@@ -1,5 +1,5 @@
 # Nike landing
-For this project I used:\
+For this project I used:
 * __HTML__
 * __CSS__
 * __SCSS__
